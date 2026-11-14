@@ -1,5 +1,3 @@
-# Kynara1n
-
 Minecraft mod developer. 
 Fabric, Forge and NeoForge, plus a few small server-side utilities.
 
