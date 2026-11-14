@@ -1,4 +1,4 @@
-Minecraft mod developer. 
+Minecraft mod developer，sometime do another somethings.
 Fabric, Forge and NeoForge, plus a few small server-side utilities.
 
 ## Projects
